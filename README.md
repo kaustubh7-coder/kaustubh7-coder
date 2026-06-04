@@ -19,15 +19,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Kaustubh Dhamale
-title       : Cloud & DevOps Engineer
-location    : Mumbai, Maharashtra 🇮🇳
-education   : B.E. Electronics & Computer Science (2022–2026)
+Name        : Kaustubh Dhamale
+Title       : Cloud & DevOps Engineer
+Location    : Mumbai, Maharashtra 🇮🇳
+Education   : B.E. Electronics & Computer Science (2022–2026)
               Shree L. R. Tiwari College of Engineering
-experience  : AWS Cloud Intern @ VKV Engineering Solutions (Jan–Apr 2026)
-focus       : Cloud Infrastructure · CI/CD Automation · Containerization
-goal        : Building reliable, scalable, and automated cloud solutions
-email       : kaustubhdhamale007@gmail.com
+Experience  : AWS Cloud Intern @ VKV Engineering Solutions (Jan–Apr 2026)
+Focus       : Cloud Infrastructure · CI/CD Automation · Containerization
+Goal        : Building reliable, scalable, and automated cloud solutions
+Email       : kaustubhdhamale007@gmail.com
 ```
 
 ---
