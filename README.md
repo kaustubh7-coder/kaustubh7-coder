@@ -1,7 +1,33 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kaustubh%20Dhamale&fontSize=60&fontColor=00d4ff&animation=twinkling&fontAlignY=65&desc=Cloud%20%26%20DevOps%20Engineer&descColor=a78bfa&descSize=22&descAlignY=85"/>
+<!-- Self-contained SVG Header — always renders, no external dependency -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00d4ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <!-- Decorative circles -->
+  <circle cx="80" cy="40" r="60" fill="#00d4ff" opacity="0.04"/>
+  <circle cx="820" cy="160" r="80" fill="#a78bfa" opacity="0.05"/>
+  <circle cx="450" cy="100" r="120" fill="#302b63" opacity="0.3"/>
+  <!-- Accent line -->
+  <rect x="200" y="130" width="500" height="1.5" fill="url(#line)" opacity="0.6"/>
+  <!-- Name -->
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700"
+        fill="#00d4ff" text-anchor="middle" letter-spacing="2">Kaustubh Dhamale</text>
+  <!-- Title -->
+  <text x="450" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="400"
+        fill="#a78bfa" text-anchor="middle" letter-spacing="1">☁️  Cloud &amp; DevOps Engineer</text>
+</svg>
 
 </div>
 
@@ -19,15 +45,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name        : Kaustubh Dhamale
-Title       : Cloud & DevOps Engineer
-Location    : Mumbai, Maharashtra 🇮🇳
-Education   : B.E. Electronics & Computer Science (2022–2026)
+name        : Kaustubh Dhamale
+title       : Cloud & DevOps Engineer
+location    : Mumbai, Maharashtra 🇮🇳
+education   : B.E. Electronics & Computer Science (2022–2026)
               Shree L. R. Tiwari College of Engineering
-Experience  : AWS Cloud Intern @ VKV Engineering Solutions (Jan–Apr 2026)
-Focus       : Cloud Infrastructure · CI/CD Automation · Containerization
-Goal        : Building reliable, scalable, and automated cloud solutions
-Email       : kaustubhdhamale007@gmail.com
+experience  : AWS Cloud Intern @ VKV Engineering Solutions (Jan–Apr 2026)
+focus       : Cloud Infrastructure · CI/CD Automation · Containerization
+goal        : Building reliable, scalable, and automated cloud solutions
+email       : kaustubhdhamale007@gmail.com
 ```
 
 ---
@@ -139,8 +165,18 @@ Email       : kaustubhdhamale007@gmail.com
 
 <div align="center">
 
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<!-- Self-contained SVG Footer Wave -->
+<svg width="100%" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,90 350,0 500,50 C650,100 750,20 900,50 L900,100 L0,100 Z" fill="url(#footer-bg)"/>
+  <path d="M0,60 C200,20 400,80 600,40 C750,10 850,60 900,40 L900,100 L0,100 Z" fill="#302b63" opacity="0.5"/>
+</svg>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaustubh7-coder&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
