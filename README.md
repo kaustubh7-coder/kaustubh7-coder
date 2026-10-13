@@ -39,7 +39,7 @@
         fill="#a78bfa"
         text-anchor="middle"
         letter-spacing="1">
-        ☁️ Cloud Support Engineer · Azure &amp; AWS
+        ☁️ Junior DevOps Engineer · CI/CD · AWS · Java Microservices
   </text>
 </svg>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%98%81%EF%B8%8F+Azure+Cloud+Support+Engineer;%E2%98%81%EF%B8%8F+AWS+Cloud+Fundamentals;%F0%9F%96%A5%EF%B8%8F+Linux+%7C+Windows+Server+Support;%F0%9F%94%A7+Terraform+%7C+PowerShell+%7C+Azure+CLI;%F0%9F%93%8A+Azure+Monitor+%7C+Log+Analytics+%7C+CloudWatch;%F0%9F%90%B3+Docker+%7C+Kubernetes+Fundamentals)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%98%81%EF%B8%8F+Junior+DevOps+Engineer;%F0%9F%94%84+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;%E2%98%95+Java+%7C+Spring+Boot+Microservices;%F0%9F%90%B3+Docker+%7C+Kubernetes;%F0%9F%94%A7+Terraform+%7C+AWS+%7C+Linux;%F0%9F%93%8A+CloudWatch+%7C+Monitoring+%26+Troubleshooting)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaustubh7-coder&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-dhamale-95836725a/)
@@ -63,19 +63,20 @@
 
 ```yaml
 name        : Kaustubh Dhamale
-title       : Cloud Support Engineer (Azure & AWS)
+title       : Junior DevOps Engineer
 location    : Pune, Maharashtra 🇮🇳
 education   : B.E. Electronics & Computer Science (2022–2026)
               Shree L. R. Tiwari College of Engineering, Mumbai University
-experience  : Cloud Support Intern → L1 Cloud Support Engineer
+experience  : DevOps Intern → Junior DevOps Engineer
               ZSOFT Technology Services
-focus       : Cloud Infrastructure · Monitoring · Incident Management
-              Linux · Windows Server · Networking · Infrastructure Support
-cloud       : Microsoft Azure · AWS
-tools       : Terraform · PowerShell · Bash · Azure CLI · AWS CLI
-containers  : Docker · Kubernetes Fundamentals
-monitoring  : Azure Monitor · Log Analytics · Application Insights · CloudWatch
-goal        : Building reliable, scalable, and well-monitored cloud infrastructure
+focus       : CI/CD Pipelines · Deployments · Java Microservices
+              Containers · Infrastructure as Code · Monitoring
+cloud       : AWS (EC2 · S3 · VPC · IAM · ALB · CloudWatch)
+cicd        : Jenkins · GitHub Actions · Maven · Gradle · Git
+tools       : Terraform · AWS CLI · Bash · Python
+containers  : Docker · Kubernetes
+os          : Linux · Windows Server
+goal        : Building reliable, automated, and well-monitored delivery pipelines
 email       : kaustubhdhamale.work@gmail.com
 ```
 
@@ -85,43 +86,39 @@ email       : kaustubhdhamale.work@gmail.com
 
 <div align="center">
 
-**☁️ Cloud Platforms**
+**☁️ Cloud Platform**
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**🏗️ Azure Infrastructure**
+**🔄 CI/CD & Version Control**
 
-![Azure VMs](https://img.shields.io/badge/Virtual%20Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Storage](https://img.shields.io/badge/Storage%20Accounts-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=for-the-badge&logo=powershell&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**☁️ AWS**
+**☕ Java & Build Tools**
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**📊 Monitoring & Observability**
-
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-00d4ff?style=for-the-badge&logo=microsoftazure&logoColor=black)
-![Log Analytics](https://img.shields.io/badge/Log%20Analytics-00d4ff?style=for-the-badge&logo=microsoftazure&logoColor=black)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
-**🔧 Automation & Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 **🐳 Containers**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**🔧 Infrastructure as Code & Scripting**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**📊 Monitoring**
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 **💻 Operating Systems**
 
@@ -132,8 +129,6 @@ email       : kaustubhdhamale.work@gmail.com
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -141,41 +136,36 @@ email       : kaustubhdhamale.work@gmail.com
 
 ## 🚀 Featured Project
 
-### ☁️ Azure Infrastructure Monitoring & Cloud Support
+### 🔄 CI/CD Pipeline and Deployment Support for a Java Application
 
-**Tech Stack:** Azure · Terraform · PowerShell · Linux · Azure Monitor · Log Analytics
+**Tech Stack:** Jenkins · Maven · Docker · AWS · Linux
 
-- Supported a cloud-hosted application environment by monitoring Azure VMs, Storage Accounts, VNets, NSGs, and application services using Azure Monitor and Log Analytics.
-- Diagnosed issues related to resource utilization, disk capacity, DNS resolution, network connectivity, and service availability.
-- Provisioned and maintained selected Azure resources using Terraform and Azure CLI.
-- Implemented automated alert validation and routine health checks through scripting.
-- Focused on improving infrastructure visibility, troubleshooting efficiency, and operational reliability.
+- Supported the CI/CD pipeline of a Java Spring Boot application, covering build, test, and deployment to Dev, QA, and Prod environments on AWS.
+- Troubleshot and resolved 80+ CI/CD and deployment tickets, including failed builds, Maven dependency and version conflicts, Jenkins agent issues, Docker image errors, and environment configuration mismatches.
+- Documented recurring failures and their fixes as runbooks, cutting repeat tickets and speeding up resolution for the team.
 
 ---
 
 ## 💼 Professional Experience
 
-**L1 Cloud Support Engineer**
-`ZSOFT Technology Services` · *September 2024 – Present*
+**Junior DevOps Engineer**
+`ZSOFT Technology Services` · *September 2025 – October 2026*
 
-- Monitor 30+ Azure cloud resources using Azure Monitor and Log Analytics.
-- Resolve 80%+ of L1 infrastructure incidents involving Azure VMs, storage access, service availability, and basic network connectivity.
-- Investigate system and application logs, reducing average incident triage time by 25% through structured troubleshooting and faster escalation.
-- Support Azure infrastructure components including Virtual Machines, Storage Accounts, Blob Storage, VNets, Subnets, and Network Security Groups.
-- Perform Linux and Windows administration tasks across cloud-hosted workloads.
-- Manage and update 100+ support tickets through ServiceNow/Jira.
-- Assist with identity and access requests using Azure Entra ID and support secure configuration management through Azure Key Vault.
-- Author SOPs and troubleshooting guides for recurring incidents.
+- Build and maintain CI/CD pipelines for Java Spring Boot microservices using Jenkins, GitHub Actions, and Maven, automating build, test, and deployment stages and reducing manual release effort by 30%.
+- Containerize Java applications with Docker and deploy them to Kubernetes, standardizing Dev, QA, and Prod environments.
+- Provision and maintain AWS infrastructure (EC2, S3, VPC, IAM, ALB) using Terraform and AWS CLI.
+- Manage Maven and Gradle builds and dependency configuration, resolving build failures and version conflicts in pipelines.
+- Monitor 30+ cloud resources using Amazon CloudWatch and analyze JVM and application logs, reducing average incident triage time by 25%.
+- Resolve 80+ tickets related to CI/CD failures and deployment issues within SLA targets, and manage 100+ tickets through ServiceNow/Jira.
+- Apply IAM least-privilege access and write SOPs and runbooks for recurring incidents.
 
-**Cloud Support Intern**
-`ZSOFT Technology Services` · *June 2024 – September 2024*
+**DevOps Intern**
+`ZSOFT Technology Services` · *June 2025 – August 2025*
 
-- Assisted in monitoring Azure cloud resources using Azure Monitor and Log Analytics.
-- Supported basic troubleshooting of Azure VMs, Storage Accounts, Blob Storage, and network connectivity issues.
-- Performed basic Linux and Windows administration tasks including service checks, process monitoring, disk utilization, file permissions, and log analysis.
-- Assisted in managing ServiceNow/Jira tickets, including ticket updates, categorization, SLA tracking, and escalation.
-- Assisted with basic identity and access requests using Azure Entra ID.
-- Supported the team in preparing SOPs and troubleshooting documentation for common cloud infrastructure issues.
+- Assisted in creating Jenkins pipelines to build and test Java Maven projects, and followed Git branching and pull-request workflows on GitHub.
+- Wrote Dockerfiles for Java applications and supported Kubernetes test deployments.
+- Monitored AWS resources using CloudWatch and performed basic Linux and Windows administration, including service checks, process monitoring, disk utilization, file permissions, and log analysis.
+- Assisted with ServiceNow/Jira tickets and basic IAM access requests.
 
 ---
 
@@ -193,6 +183,8 @@ Shree L. R. Tiwari College of Engineering, Mumbai University
 
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
+| AWS Certified Solutions Architect – Associate | AWS |
+| Microsoft Certified: DevOps Engineer Expert (AZ-400) | Microsoft |
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft |
 | OCI 2025 Certified DevOps Professional | Oracle |
 | OCI 2025 Certified Multicloud Architect Professional | Oracle |
@@ -243,6 +235,6 @@ Shree L. R. Tiwari College of Engineering, Mumbai University
   <path d="M0,60 C200,20 400,80 600,40 C750,10 850,60 900,40 L900,100 L0,100 Z" fill="#302b63" opacity="0.5"/>
 </svg>
 
-**⚡ "Build. Monitor. Troubleshoot. Automate." ⚡**
+**⚡ "Build. Automate. Deploy. Monitor." ⚡**
 
 </div>
