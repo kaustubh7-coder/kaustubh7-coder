@@ -39,7 +39,7 @@
         fill="#a78bfa"
         text-anchor="middle"
         letter-spacing="1">
-        ☁️ Junior DevOps Engineer · CI/CD · AWS · Java Microservices
+        ☁️ Associate DevOps Engineer · CI/CD · AWS · Java Microservices
   </text>
 </svg>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%98%81%EF%B8%8F+Junior+DevOps+Engineer;%F0%9F%94%84+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;%E2%98%95+Java+%7C+Spring+Boot+Microservices;%F0%9F%90%B3+Docker+%7C+Kubernetes;%F0%9F%94%A7+Terraform+%7C+AWS+%7C+Linux;%F0%9F%93%8A+CloudWatch+%7C+Monitoring+%26+Troubleshooting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%E2%98%81%EF%B8%8F+Associate+DevOps+Engineer;%F0%9F%94%84+CI%2FCD+%7C+Jenkins+%7C+GitHub+Actions;%E2%98%95+Java+%7C+Spring+Boot+Microservices;%F0%9F%90%B3+Docker+%7C+Kubernetes;%F0%9F%94%A7+Terraform+%7C+AWS+%7C+Linux;%F0%9F%93%8A+CloudWatch+%7C+Monitoring+%26+Troubleshooting)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaustubh7-coder&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-dhamale-95836725a/)
@@ -63,11 +63,11 @@
 
 ```yaml
 name        : Kaustubh Dhamale
-title       : Junior DevOps Engineer
+title       : Associate DevOps Engineer
 location    : Pune, Maharashtra 🇮🇳
 education   : B.E. Electronics & Computer Science (2022–2026)
               Shree L. R. Tiwari College of Engineering, Mumbai University
-experience  : DevOps Intern → Junior DevOps Engineer
+experience  : DevOps Intern → Associate DevOps Engineer
               ZSOFT Technology Services
 focus       : CI/CD Pipelines · Deployments · Java Microservices
               Containers · Infrastructure as Code · Monitoring
@@ -148,7 +148,7 @@ email       : kaustubhdhamale.work@gmail.com
 
 ## 💼 Professional Experience
 
-**Junior DevOps Engineer**
+**Associate DevOps Engineer**
 `ZSOFT Technology Services` · *September 2025 – October 2026*
 
 - Build and maintain CI/CD pipelines for Java Spring Boot microservices using Jenkins, GitHub Actions, and Maven, automating build, test, and deployment stages and reducing manual release effort by 30%.
